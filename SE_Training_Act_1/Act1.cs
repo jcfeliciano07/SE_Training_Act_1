@@ -5,7 +5,7 @@ using System;
 using System.Threading;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace SE_Training_Act_1
+--namespace SE_Training_Act_1
 {
     public class Act1
     {
